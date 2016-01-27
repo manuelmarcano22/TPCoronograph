@@ -1,2 +1,7 @@
 # Fits
 *.fts
+
+# Python scripts and text data
+*.txt
+*.py
+*.pyc
